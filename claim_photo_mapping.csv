@@ -1,0 +1,19 @@
+Claim ID,Claimant,Photo 1,Photo 2,Amount,Date,Note
+MI-10234,Sarah Chen,IMG-010.jpg,IMG-013.jpg,3200,2026-08-03,
+MI-10235,Marcus Webb,IMG-006.jpg,IMG-028.jpg,6750,2026-08-05,
+MI-10236,Ana Torres,IMG-033.jpg,IMG-020.jpg,4100,2026-08-06,
+MI-10237,Devon Price,IMG-031.jpg,IMG-026.jpg,2450,2026-08-07,
+MI-10239,Jordan Blake,IMG-023.jpg,IMG-027.jpg,1900,2026-08-09,
+MI-10240,Elena Vargas,IMG-032.jpg,IMG-011.jpg,7300,2026-08-10,
+MI-10242,Fatima Rahman,IMG-012.jpg,IMG-029.jpg,2850,2026-08-12,
+MI-10243,Connor Hayes,IMG-009.jpg,IMG-021.jpg,4950,2026-08-13,
+MI-10244,Nia Thompson,IMG-017.jpg,IMG-036.jpg,3400,2026-08-14,
+MI-10245,Ryan Ostrowski,IMG-007.jpg,IMG-025.jpg,2100,2026-08-15,
+MI-10246,Camille Dubois,IMG-001.jpg,IMG-035.jpg,1750,2026-08-16,
+MI-10247,Marcus Webb,IMG-014.jpg,IMG-019.jpg,10500,2026-08-17,
+MI-10248,Grace Kim,IMG-003.jpg,IMG-034.jpg,7300,2026-08-18,Narrative resembles MI-10240; wording alone does not trigger escalation.
+MI-10249,Isaiah Coleman,IMG-030.jpg,IMG-022.jpg,5200,2026-08-19,
+MI-10250,Olivia Bennett,IMG-004.jpg,IMG-024.jpg,4100,2026-08-20,Narrative resembles MI-10236; wording alone does not trigger escalation.
+MI-10251,Derek Simmons,IMG-005.jpg,IMG-015.jpg,3950,2026-08-21,
+MI-10252,Hannah Wu,IMG-016.jpg,IMG-018.jpg,2600,2026-08-22,
+MI-10253,Bryce Coleman,IMG-002.jpg,IMG-008.jpg,3400,2026-08-23,Narrative resembles an earlier plaza claim and shares a surname with another claimant; neither alone triggers escalation.

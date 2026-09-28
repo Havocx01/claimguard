@@ -1,0 +1,9 @@
+- give me the main streamlit functions and what they do
+- how does session state work and when would i use it
+- what does google vision return when i check an image
+- whats the difference between full matches and partial matches and similar images
+- whats a simple way to check if two photos are duplicates
+- how do i prefill a google form from python without submitting it
+- how should i organize the lookup logic and the streamlit code
+- what errors should i handle when calling the api
+- how do i shorten the results but keep the important information

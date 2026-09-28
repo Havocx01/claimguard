@@ -1,0 +1,145 @@
+{
+  "source": "Local file comparisons and live Google Vision check; see liveLookup for web evidence.",
+  "duplicate_pairs": [
+    {
+      "source_claim": "MI-10250",
+      "photo": "IMG-004.jpg",
+      "matched_photo": "IMG-033.jpg",
+      "claim_id": "MI-10236",
+      "kind": "identical file",
+      "sha256": "f48d8d960c00587600c411e68aff0b516ef361ae69509ff8a413e39ebf9a0404"
+    },
+    {
+      "source_claim": "MI-10250",
+      "photo": "IMG-024.jpg",
+      "matched_photo": "IMG-020.jpg",
+      "claim_id": "MI-10236",
+      "kind": "identical file",
+      "sha256": "d541c3baf402f9e46b972ee341599644f0256e3b7a9e5b0955e09e0c991379a2"
+    },
+    {
+      "source_claim": "MI-10248",
+      "photo": "IMG-003.jpg",
+      "matched_photo": "IMG-032.jpg",
+      "claim_id": "MI-10240",
+      "kind": "identical file",
+      "sha256": "d0367ab6d847d7499a055700566457c479f572f2886ae7134d8e3ec7a8235b50"
+    },
+    {
+      "source_claim": "MI-10248",
+      "photo": "IMG-034.jpg",
+      "matched_photo": "IMG-011.jpg",
+      "claim_id": "MI-10240",
+      "kind": "identical file",
+      "sha256": "e31c4d86f4cf1014b1e96ba64daf837b00c535f285888ba85ac8509393ca1f8c"
+    },
+    {
+      "source_claim": "MI-10252",
+      "photo": "IMG-018.jpg",
+      "matched_photo": "IMG-017.jpg",
+      "claim_id": "MI-10244",
+      "kind": "identical file",
+      "sha256": "5178346b9f7916d84d58bb91af224ed3c31baa698be21896f998ed3352c52d0e"
+    }
+  ],
+  "liveLookup": {
+    "claimId": "MI-10248",
+    "decision": "escalate",
+    "findings": "IMG-003.jpg matches IMG-032.jpg from claim MI-10240.\nIMG-034.jpg matches IMG-011.jpg from claim MI-10240.\nIMG-003.jpg - fullMatchingImages: https://upload.wikimedia.org/wikipedia/commons/9/90/Front_crashed_SLK.jpg?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=original\nIMG-003.jpg - fullMatchingImages: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Front_crashed_SLK.jpg/1280px-Front_crashed_SLK.jpg?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=thumbnail\nIMG-003.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=h18lXEbVx80\nIMG-003.jpg - pagesWithMatchingImages: https://www.facebook.com/autotechnomania/videos/crumple-zones-in-car/332796301682493/\nIMG-003.jpg - pagesWithMatchingImages: https://commons.wikimedia.org/wiki/File:Front_crashed_SLK.jpg\nIMG-003.jpg - pagesWithMatchingImages: https://de.wikipedia.org/wiki/Knautschzone\nIMG-003.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=JuRb6u0QKaU\nIMG-003.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=zFo6zGKkcC4\nIMG-003.jpg - pagesWithMatchingImages: https://www.weser-kurier.de/ratgeber/mobilitaet/ein-lebensretter-wird-60-die-knautschzone-im-auto-doc7e3rvcd864l10xu8l49a\nIMG-003.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=0U8SSBKLTHo\nIMG-003.jpg - pagesWithMatchingImages: https://www.mz.de/leben/auto/knautschzone-eine-erfindung-rettet-leben-2716110\nIMG-003.jpg - pagesWithMatchingImages: https://www.wikiwand.com/de/Knautschzone\nIMG-003.jpg - visually similar image (not proof of reuse): https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Front_crashed_SLK.jpg/1280px-Front_crashed_SLK.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail\nIMG-003.jpg - visually similar image (not proof of reuse): https://c0.carsie.ie/d43864c90df075c94489ddbe4ca5ffe942b70b7d64f5766f7286b1f2f9186894.jpg\nIMG-003.jpg - visually similar image (not proof of reuse): https://d19-a.sdn.cz/d_19/c_img_qD_A/nO2CysqjGrCP7qONgEHIQFrJ/0923.jpeg?fl=exf|crr,1.33333,0|res,1024,768,1|wrm,/watermark/sauto.png,10,10|jpg,80,,1\nIMG-003.jpg - visually similar image (not proof of reuse): https://c0.carsie.ie/d43864c90df075c94489ddbe4ca5ffe92157dfea34b78f4d2e73d020df705c11.jpg\nIMG-003.jpg - visually similar image (not proof of reuse): https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3944166340088099716\nIMG-003.jpg - visually similar image (not proof of reuse): https://img.paruvendu.fr/media_ext/_https_/media.paruvendu.fr/97/82/L21lZGlhLXBhL1dWMTcvNS81L1dWMTc1NTAwMTI5XzEuanBlZz8yMDI2MDkwNjIwNTIwNg_rct?func=crop&w=480&gravity=auto\nIMG-003.jpg - visually similar image (not proof of reuse): https://images.dbastatic.dk/dynamic/default/item/25095935/11c46532-a39c-4a37-ad82-360bbefbc9ac\nIMG-003.jpg - visually similar image (not proof of reuse): https://i.ytimg.com/vi/pcwk1UyKcRA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCwLeUsHVhzwadrfMyUbOI-pAqwdw\nIMG-003.jpg - visually similar image (not proof of reuse): https://d19-a.sdn.cz/d_19/c_img_qD_A/nO2CysqjGrB9kIMSz3HIQGsf/23c8.jpeg?fl=exf|crr,1.33333,0|res,1024,768,1|wrm,/watermark/sauto.png,10,10|jpg,80,,1\nIMG-003.jpg - visually similar image (not proof of reuse): https://d19-a.sdn.cz/d_19/c_img_qD_A/nO2CysqjGrB9kIMSz2HIQGkq/0a0b.jpeg?fl=exf|crr,1.33333,0|res,1024,768,1|wrm,/watermark/sauto.png,10,10|jpg,80,,1\nIMG-034.jpg - partialMatchingImages: https://i.ss.lv/gallery/8/1548/386909/volvo-v70-77381730.t.jpg\nIMG-034.jpg - partialMatchingImages: https://mercury.bid.cars/1-73600292/2003-Honda-Accord-1HGCM72693A026012-1.jpg\nIMG-034.jpg - pagesWithMatchingImages: https://www.instagram.com/p/DaRHPNCCVTR/\nIMG-034.jpg - pagesWithMatchingImages: https://www.youtube.com/shorts/qOtkRaDu7N4\nIMG-034.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=0p1ajVjfvnQ\nIMG-034.jpg - pagesWithMatchingImages: https://www.youtube.com/shorts/dnGjKMLDo1E\nIMG-034.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=ntJV0CoIbT4\nIMG-034.jpg - pagesWithMatchingImages: https://bid.cars/en/lot/1-47521753/2002-Honda-Accord-1HGCG16552A028599\nIMG-034.jpg - pagesWithMatchingImages: https://www.facebook.com/caboverdeecaboverdeanosnomundo/videos/-cachupa-the-heart-of-cape-verdean-cuisine-%EF%B8%8Fcachupa-is-a-beloved-traditional-ste/1887970285419052/\nIMG-034.jpg - pagesWithMatchingImages: https://www.instagram.com/reel/DBUDWU8OU7M/?hl=en\nIMG-034.jpg - pagesWithMatchingImages: https://www.facebook.com/FrenchLearnerOfficial/videos/what-does-coup-mean-in-french-frenchlearner/1077429224368297/\nIMG-034.jpg - pagesWithMatchingImages: https://ca.pinterest.com/pin/cachupa-a-cape-verdean-stew-video--3448137209169798/\nIMG-034.jpg - visually similar image (not proof of reuse): https://trademe.tmcdn.co.nz/photoserver/480x360c/2319159887.jpg\nIMG-034.jpg - visually similar image (not proof of reuse): https://image.hmn.com/eV8x96Q4wz5UXCVGWolw2yWjTpw=/450x300/filters:format(webp)/uimage/160585334.jpg\nIMG-034.jpg - visually similar image (not proof of reuse): https://image.hmn.com/eDSh_bYy1L28QlgdwxgdGjNHBHM=/450x300/filters:format(webp)/uimage/154544081.jpg\nIMG-034.jpg - visually similar image (not proof of reuse): https://img.classistatic.de/api/v1/mo-prod/images/06/0643470c-c177-41de-84db-7ddab545b406?rule=mo-1600\nIMG-034.jpg - visually similar image (not proof of reuse): https://i.ebayimg.com/images/g/lW0AAeSwJYJqts8s/s-l1200.webp\nIMG-034.jpg - visually similar image (not proof of reuse): https://image.hmn.com/aNuSZ2eyslwpeFMpapUSa4nEHrI=/450x300/filters:format(webp)/uimage/159832030.jpg\nIMG-034.jpg - visually similar image (not proof of reuse): https://c0.carsie.ie/d43864c90df075c94489ddbe4ca5ffe97e705f87394b1d02eda85ba61f24ee1d.jpg\nIMG-034.jpg - visually similar image (not proof of reuse): https://img.classistatic.de/api/v1/mo-prod/images/70/704bcf11-2db1-4d1d-a22a-8f214016e56e?rule=mo-1600\nIMG-034.jpg - visually similar image (not proof of reuse): https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1605155778290988\nIMG-034.jpg - visually similar image (not proof of reuse): https://upload.wikimedia.org/wikipedia/commons/2/28/Mercedes_SLK_200_Kompressor_%28R171%29_Facelift_front_20100515.jpg?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=original"
+  },
+  "additionalLiveChecks": [
+    {
+      "claimId": "MI-10252",
+      "checkedAt": "2026-09-27T23:18:27.044067+00:00",
+      "decision": "escalate",
+      "localFindings": [
+        "IMG-018.jpg matches IMG-017.jpg from claim MI-10244."
+      ],
+      "webFindings": [
+        "IMG-016.jpg - fullMatchingImages: http://www.camion-desaubies.fr/img/posts/4.jpg",
+        "IMG-016.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=284pDHqQauA",
+        "IMG-016.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=q6DfzgXutBU",
+        "IMG-016.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=5AcCbLKnQFM",
+        "IMG-016.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=TJCF9ZW00vE",
+        "IMG-016.jpg - pagesWithMatchingImages: https://www.carrentalexpress.com/revolution/city-car-rental/profile",
+        "IMG-016.jpg - pagesWithMatchingImages: https://www.facebook.com/cityrentacar/?locale=es_LA",
+        "IMG-016.jpg - pagesWithMatchingImages: https://www.facebook.com/CarCityAR/posts/-your-next-ride-is-waiting-at-car-city-/1556483529826682/",
+        "IMG-016.jpg - pagesWithMatchingImages: https://www.facebook.com/cityrentacar/?locale=be_BY",
+        "IMG-016.jpg - pagesWithMatchingImages: https://www.mapquest.com/us/california/city-rent-a-car-264954408",
+        "IMG-016.jpg - pagesWithMatchingImages: https://www.instagram.com/carcitycentral.nc.sc/p/DcOGhjvAinV/",
+        "IMG-016.jpg - visually similar image (not proof of reuse): https://smgliwice.pl/wp-content/uploads/2021/04/daszynskiego_pojazd-1024x768.png",
+        "IMG-016.jpg - visually similar image (not proof of reuse): https://www.tiktok.com/api/img/?itemId=7687322694122999060&location=0&aid=1988",
+        "IMG-016.jpg - visually similar image (not proof of reuse): https://avatars.avto.ru/get-autoru-vos/19793268/81a3101e1e73e43cd2d1b2c7ccb60d2c/456x342",
+        "IMG-016.jpg - visually similar image (not proof of reuse): https://frankfurt.apollo.olxcdn.com/v1/files/6owms1d4c0r63-KZ/image;s=2000x1500",
+        "IMG-016.jpg - visually similar image (not proof of reuse): https://s9.auto.drom.ru/photo/v2/D6fv0yRKhoBTV6G9yqhW418I2yFxIegS7cHWn1A2pP65z5vDQvZIvQQS52MtMabNQidGVPxfeHERaSxo/gen240x2.jpg",
+        "IMG-016.jpg - visually similar image (not proof of reuse): https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/555a193a-cc9c-4fa6-809d-191e48644fa7?rule=ecg_mp_eps$_83",
+        "IMG-016.jpg - visually similar image (not proof of reuse): https://avatars.avto.ru/get-autoru-vos/20330248/14409c7cabb2ff11ffeff458a4304480/456x342",
+        "IMG-016.jpg - visually similar image (not proof of reuse): https://arhiiv-img.err.ee/enlarge?type=optimize&width=800&height=600&file=thumbnails%2F2025%2F2002-001054-0005_0002_D10_KUNINGAS-ARTHURI_NARVA-ALEKSANDRI_20251115104948.jpg",
+        "IMG-016.jpg - visually similar image (not proof of reuse): https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1560130569247686",
+        "IMG-016.jpg - visually similar image (not proof of reuse): https://avatars.mds.yandex.net/get-altay/18777611/2a0000019e976b264e3273c6f4f8daf964d3/L_height",
+        "IMG-018.jpg - fullMatchingImages: https://upload.wikimedia.org/wikipedia/commons/e/e0/Damaged_car_door.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "IMG-018.jpg - fullMatchingImages: https://miro.medium.com/v2/resize:fit:1358/format:webp/0*WnoKO8AHByF_LTDe",
+        "IMG-018.jpg - fullMatchingImages: https://cdn-behbo.nitrocdn.com/BorUqYIhVIXnbhdwvCiIfjlhIkQCrCZN/assets/images/optimized/rev-3e79d4e/www.azizilawfirm.com/wp-content/uploads/2017/02/1024px-Damaged_car_door.jpg",
+        "IMG-018.jpg - fullMatchingImages: https://farm4.static.flickr.com/3694/33459322445_edf4cbdf15_b.jpg",
+        "IMG-018.jpg - fullMatchingImages: https://hasarliotom.com/_next/image?url=%2Fyuklemeler%2Fstok%2Fgaleri-03.webp&w=1920&q=75",
+        "IMG-018.jpg - fullMatchingImages: https://automedia.investor.bg/media/files/resized/gallery/760x/b6d/187ffd7e6d436ad80c441ca73502db6d-06-11.jpg",
+        "IMG-018.jpg - fullMatchingImages: https://img4.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202608/15/552146-yYAQlqo/20260815190004032geph.jpg",
+        "IMG-018.jpg - fullMatchingImages: https://discardstudies.com/wp-content/uploads/2017/04/33459322445_edf4cbdf15_b.jpg?w=640",
+        "IMG-018.jpg - partialMatchingImages: https://source.roboflow.com/wdf5XOBmZRbrg3xJxFcTBedRiaA3/1lqM55w2p4BDQOuGB2VH/original.jpg",
+        "IMG-018.jpg - partialMatchingImages: https://i.ytimg.com/vi/nk3kCXokJzo/hqdefault.jpg",
+        "IMG-018.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=IoCGEl-HOoc",
+        "IMG-018.jpg - pagesWithMatchingImages: https://www.facebook.com/UNILADTech/videos/fixing-a-damaged-car-door-process-/774717964892470/",
+        "IMG-018.jpg - pagesWithMatchingImages: https://www.facebook.com/chrisfix8/videos/how-to-fix-a-broken-door/1512780120273857/",
+        "IMG-018.jpg - pagesWithMatchingImages: https://www.facebook.com/chrisfix8/videos/fix-a-door-that-wont-lock-or-unlock/485782917455808/",
+        "IMG-018.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=ieZESDftcis",
+        "IMG-018.jpg - pagesWithMatchingImages: https://www.facebook.com/chrisfix8/posts/how-to-fix-a-broken-car-door/849792633861026/",
+        "IMG-018.jpg - pagesWithMatchingImages: https://commons.wikimedia.org/wiki/File:Damaged_car_door.jpg",
+        "IMG-018.jpg - pagesWithMatchingImages: https://universe.roboflow.com/startunderstandingroboflow/damaged-car-parts-yqvoq",
+        "IMG-018.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=SAYCNH9tcSE",
+        "IMG-018.jpg - pagesWithMatchingImages: https://www.youtube.com/watch?v=GeY2odUFhLM",
+        "IMG-018.jpg - visually similar image (not proof of reuse): https://media.licdn.com/dms/image/v2/C5622AQGXhcepXYvtgg/feedshare-shrink_800/feedshare-shrink_800/0/1655937093349?e=2147483647&v=beta&t=e9QOr45JWl7jgiowcMb2trM1ZwCO_zm3idcfhyoSNYE",
+        "IMG-018.jpg - visually similar image (not proof of reuse): https://apps3.gov.nl.ca/online-reporting/images/accident.jpg",
+        "IMG-018.jpg - visually similar image (not proof of reuse): https://gate.ahram.org.eg/Media/News/2018/7/3/19_2018-636662092186786977-678.jpg",
+        "IMG-018.jpg - visually similar image (not proof of reuse): https://fotografias-2.larazon.es/clipping/cmsimages02/2026/09/08/550727DF-F732-4A2E-B049-3DE061B02CF9/estado-que-quedaron-vehiculos_49.jpg?crop%3D963%2C637%2Cx0%2Cy164%26width%3D680%26height%3D450%26optimize%3Dhigh%26format%3Dwebply",
+        "IMG-018.jpg - visually similar image (not proof of reuse): https://lawright.org.au/wp-content/uploads/2025/07/OIP-uai-314x314.webp",
+        "IMG-018.jpg - visually similar image (not proof of reuse): https://media.tag24.de/951x634/2/w/2wdo1uojlaea7y02wf3eu0p935irfzoz.jpg",
+        "IMG-018.jpg - visually similar image (not proof of reuse): https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1499017355591374",
+        "IMG-018.jpg - visually similar image (not proof of reuse): https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1559699469534099",
+        "IMG-018.jpg - visually similar image (not proof of reuse): https://worldharvestfoodbank.org/wp-content/uploads/2025/09/68d08e8c18416_IMG_5049-768x1024.jpeg",
+        "IMG-018.jpg - visually similar image (not proof of reuse): https://accidentnetwork.com/wp-content/uploads/2023/04/Service-Image3.jpg"
+      ]
+    },
+    {
+      "claimId": "MI-10253",
+      "checkedAt": "2026-09-27T23:18:30.226526+00:00",
+      "decision": "auto-approve",
+      "localFindings": [
+        "No identical photos were found in the other claims."
+      ],
+      "webFindings": [
+        "IMG-002.jpg - visually similar image (not proof of reuse): https://www.informador.mx/__export/1788076571005/sites/elinformador/img/2026/08/30/loc_crop1788076566402.jpg_71210540.jpg",
+        "IMG-002.jpg - visually similar image (not proof of reuse): https://thumbs.dreamstime.com/b/honda-ridgeline-rides-road-car-asphalt-185768501.jpg",
+        "IMG-002.jpg - visually similar image (not proof of reuse): https://cars.usnews.com/pics/size/0x0/images/Auto/custom/11706/2011_Honda_Ridgeline_52.jpg",
+        "IMG-002.jpg - visually similar image (not proof of reuse): https://www.tiktok.com/api/img/?itemId=7447019402463087915&location=3&aid=1988&index=2",
+        "IMG-002.jpg - visually similar image (not proof of reuse): https://www.maxus.de/_next/image?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F234888%2F3000x2000%2Ff136fb13bf%2Fmaxus-eterron-9_005_side1_concrete_grey.jpg&w=3840&q=75",
+        "IMG-002.jpg - visually similar image (not proof of reuse): https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=834606853233612",
+        "IMG-002.jpg - visually similar image (not proof of reuse): https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10212215766227071",
+        "IMG-002.jpg - visually similar image (not proof of reuse): https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1270927695174507",
+        "IMG-002.jpg - visually similar image (not proof of reuse): https://preview.redd.it/wnqjole8sf1h1.jpeg?width=640&crop=smart&auto=webp&s=b06ce8c081af1f5c963b50ed3fd91d9dcd53e862",
+        "IMG-002.jpg - visually similar image (not proof of reuse): https://www.tiktok.com/api/img/?itemId=7668838591820238101&location=3&aid=1988&index=5",
+        "IMG-002.jpg: No exact or partial web matches found.",
+        "IMG-008.jpg - visually similar image (not proof of reuse): https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1681152829462633",
+        "IMG-008.jpg - visually similar image (not proof of reuse): http://http2.mlstatic.com/D_NQ_NP_770927-MLM32266542688_092019-F.jpg",
+        "IMG-008.jpg - visually similar image (not proof of reuse): https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1681152642795985",
+        "IMG-008.jpg - visually similar image (not proof of reuse): https://www.slashgear.com/img/gallery/honda-ridgeline-best-years-some-avoid/intro-1789081434.jpg",
+        "IMG-008.jpg - visually similar image (not proof of reuse): https://image.hmn.com/DmDMXwRCP65TmpNTKCNZ2AnHp10=/900x0/filters:format(webp)/uimage/159621870.jpg",
+        "IMG-008.jpg - visually similar image (not proof of reuse): https://www.tiktok.com/api/img/?itemId=7662238829599788302&location=3&aid=1988&index=0",
+        "IMG-008.jpg - visually similar image (not proof of reuse): https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=834606853233612",
+        "IMG-008.jpg - visually similar image (not proof of reuse): https://image.hmn.com/UmObanxtk-etYzjUDs0IEZw40s4=/450x300/filters:format(webp)/uimage/76728038.jpg",
+        "IMG-008.jpg - visually similar image (not proof of reuse): https://www.tiktok.com/api/img/?itemId=7668838591820238101&location=3&aid=1988&index=5",
+        "IMG-008.jpg - visually similar image (not proof of reuse): https://preview.redd.it/change-your-timing-belt-v0-homolur9rkrh1.jpg?width=640&crop=smart&auto=webp&s=9a8efcfd9e05d9affbdae7fa37f4cdae2dd4d17e",
+        "IMG-008.jpg: No exact or partial web matches found."
+      ]
+    }
+  ]
+}
